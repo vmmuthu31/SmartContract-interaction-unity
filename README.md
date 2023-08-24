@@ -1,6 +1,6 @@
-# Unity3d Sample Template Net472 / Netstandard
+# Unity3d  Net472 / Netstandard
 
-Sample template to get started Unity3d development using Nethereum. It includes the necessary dlls from the Net472AOT Common release in the asset folder (other none specialised ones like geth, reactive, etc are not included but can be downloaded from Nethereum releases if needed). Netstandard libraries work the same. Some libraries you might not need, like Nethereum.HD and NBitcoin to support Hierarchical Deterministic Wallets so you can remove them.
+Started with Unity3d development using Nethereum. It includes the necessary dlls from the Net472AOT Common release in the asset folder (other none specialised ones like geth, reactive, etc are not included but can be downloaded from Nethereum releases if needed). Netstandard libraries work the same. Some libraries you might not need, like Nethereum.HD and NBitcoin to support Hierarchical Deterministic Wallets so you can remove them.
 
 Unity Version used is 2022.1.23 
 
